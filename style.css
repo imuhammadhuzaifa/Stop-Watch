@@ -28,6 +28,7 @@ body {
     background-color: #4CAF50;
     color: #fff;
     border: none;
+    border-radius: 10px;
     cursor: pointer;
     margin-right: 10px;
 }
